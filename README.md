@@ -9,6 +9,6 @@
   💼 Estou em busca da minha primeira oportunidade dentro da área dev.<br>
   
  
-  <img src="" width="40" align="right"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" align="right"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" align="right">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" align="right"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" align="right">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lineavelino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
