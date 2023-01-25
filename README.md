@@ -1,7 +1,7 @@
-# Hello, World! 👋☕ <br> [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" align="right"/>](https://www.linkedin.com/in/raphael-braga-a0084416a/) 
+# Hello, World! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">☕ <br> [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" align="right"/>](https://www.linkedin.com/in/raphael-braga-a0084416a/) 
 <br>
   
-  💻 Tenho 23 anos, nasci em Aracaju, capital do estado de Sergipe, e desde que me conheço por gente sou um aficionado pelo mundo da tecnologia.<br><br>
+  💻 Tenho 24 anos, nasci em Aracaju, capital do estado de Sergipe, e desde que me conheço por gente sou um aficionado pelo mundo da tecnologia.<br><br>
   🚀 Atualmente cursando o Bootcamp da Driven, no qual estou estudando front-end com HTML, CSS, JavaScript até o desenvolvimento de aplicações avançadas Full-Stack
  utilzando ReactJS (front-end), NodeJS (back-end), Deploy,
  tecnologias como Express, PostgreSQL, Sequelize 
