@@ -13,8 +13,9 @@
   [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](rbragamouraa@gmail.com)
    [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/raphael-braga-a0084416a/) 
  
-  
  ## 🛠 &nbsp;Hard Skills
+ 
+ ![JavaScript](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -32,6 +33,8 @@
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=Amazon%20Aws)&nbsp;
 ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=Redis)&nbsp;
  ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=Jest)&nbsp;
+ 
+ 🛠 &nbsp;Tools
 
   
 
