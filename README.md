@@ -57,6 +57,7 @@
  ![](https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white)&nbsp;
  ![]()&nbsp;
  
- 
+ <div align="center">
 <img width="460em" src="https://github-readme-stats.vercel.app/api?username=RaphaelBraga&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
 <img width="460em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+  </div>
