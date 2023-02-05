@@ -4,7 +4,7 @@
  utilzando ReactJS (front-end), NodeJS (back-end), Deploy,
  tecnologias como Express, PostgreSQL, Sequelize 
  e testes automatizados (integração e unitários).<br><br>
-  💼 Estou em busca da minha primeira oportunidade dentro da área dev.<br>
+ 
   
   ## 📱 Contatact
 
