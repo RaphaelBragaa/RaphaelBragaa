@@ -9,7 +9,7 @@
   💼 Estou em busca da minha primeira oportunidade dentro da área dev.<br>
   
    ## 🛠 &nbsp;Contatos
-  https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" align="right"/>](https://www.linkedin.com/in/raphael-bragaa/) 
   
  ## 🛠 &nbsp;Hard Skills
