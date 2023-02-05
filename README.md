@@ -9,8 +9,8 @@
   💼 Estou em busca da minha primeira oportunidade dentro da área dev.<br>
   
    ## 🛠 &nbsp;Contatos
-  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />]
-   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" align="right"/>](https://www.linkedin.com/in/raphael-braga-a0084416a/) 
+  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](rbragamouraa@gmail.com)
+   [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/raphael-braga-a0084416a/) 
  
   
  ## 🛠 &nbsp;Hard Skills
