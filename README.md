@@ -1,5 +1,26 @@
 # Hello, World! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">☕ 
-  :trophy:Crafting code that not only works, but tells a story
+  Introduction 🙋‍♂️
+My name is Raphael Braga, I'm 24 years old and I'm a software developer with a strong passion for creating innovative and user-friendly solutions.
+
+Skills 💻
+I have a background in various programming languages such as JavaScript, Typescript, React, and have experience in full-stack development. I believe in writing clean and maintainable code.
+
+Problem Solving 🤔
+I enjoy tackling complex problems and finding creative and efficient ways to solve them. I strive to create applications that are not only functional but also visually appealing.
+
+Design and Technology 🎨💻
+I believe in bridging the gap between design and technology to bring ideas to life. I have a strong interest in UX/UI design concepts and tools such as Figma.
+
+Learning and Growth 📈🧠
+I am always open to new ideas and challenges and I love to continuously learn and improve my skills.
+
+Hobbies 🚀
+In my spare time, I have a keen interest in new technologies and their potential to change the world. I also enjoy learning about the Arduino.
+
+Contact 💬
+Feel free to take a look at my projects on my GitHub profile and don't hesitate to reach out if you have any questions or would like to collaborate on a project. Thank you for visiting! 🤗
+  
+:trophy:Crafting code that not only works, but tells a story
  
 
  
