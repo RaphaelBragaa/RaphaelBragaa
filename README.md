@@ -6,7 +6,7 @@
  e testes automatizados (integração e unitários).<br><br>
   💼 Estou em busca da minha primeira oportunidade dentro da área dev.<br>
   
-  ## Contatos
+  ## 📱 Contatos
 
   [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](rbragamouraa@gmail.com)
    [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/raphael-braga-a0084416a/) 
