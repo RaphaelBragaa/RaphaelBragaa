@@ -60,5 +60,5 @@
  <div align="center">
 <img width="430em" src="https://github-readme-stats.vercel.app/api?username=RaphaelBraga&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   
-<img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img width="430em" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
   </div>
