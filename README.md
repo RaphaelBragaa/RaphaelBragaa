@@ -1,9 +1,7 @@
 # Hello, World! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">☕ 
-  💻 Tenho 24 anos, nasci em Aracaju, capital do estado de Sergipe, e desde que me conheço por gente sou um aficionado pelo mundo da tecnologia.<br><br>
-  🚀 Atualmente cursando o Bootcamp da Driven, no qual estou estudando front-end com HTML, CSS, JavaScript até o desenvolvimento de aplicações avançadas Full-Stack
- utilzando ReactJS (front-end), NodeJS (back-end), Deploy,
- tecnologias como Express, PostgreSQL, Sequelize 
- e testes automatizados (integração e unitários).<br><br>
+  :trophy:Crafting code that not only works, but tells a story
+ 
+
  
   
   ## 📱 Contatact
