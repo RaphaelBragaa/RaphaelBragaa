@@ -17,7 +17,7 @@ I am always open to new ideas and challenges and I love to continuously learn an
 Hobbies 🚀<br>
 In my spare time, I have a keen interest in new technologies and their potential to change the world. I also enjoy learning about the Arduino.
 
-Contact 💬<br>
+Contact Me 💬<br>
 Feel free to take a look at my projects on my GitHub profile and don't hesitate to reach out if you have any questions or would like to collaborate on a project. Thank you for visiting! 🤗
   
 :trophy:Crafting code that not only works, but tells a story
@@ -25,7 +25,7 @@ Feel free to take a look at my projects on my GitHub profile and don't hesitate 
 
  
   
-  ## 📱 Contatact
+  ## 📱 Contact
 
   [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](rbragamouraa@gmail.com)
    [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/raphael-braga-a0084416a/) 
