@@ -1,24 +1,18 @@
-## Hello, World! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> ☕ 
-  Introduction 🙋‍♂️<br>
-My name is Raphael Braga, I'm 24 years old and I'm a software developer with a strong passion for creating innovative and user-friendly solutions.
 
-Skills 💻<br>
-I have a background in various programming languages such as JavaScript, Typescript, React, and have experience in full-stack development. I believe in writing clean and maintainable code.
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=25&pause=100&color=F718B3&background=C63CFF00&multiline=true&width=435&lines=Ol%C3%A1!++Eu+sou+um+desenvolvedor+)](https://git.io/typing-svg) <br>
 
-Problem Solving 🤔<br>
-I enjoy tackling complex problems and finding creative and efficient ways to solve them. I strive to create applications that are not only functional but also visually appealing.
+🙋‍♂️
+Meu nome é Raphael Braga,  sou um desenvolvedor web Full Stack e sou movido por desafios com uma forte fascínio por criar soluções inovadoras e impactar a vida das pessoas. 💪
+##
 
-Design and Technology 🎨💻<br>
-I believe in bridging the gap between design and technology to bring ideas to life. I have a strong interest in UX/UI design concepts and tools such as Figma.
 
-Learning and Growth 📈🧠<br>
-I am always open to new ideas and challenges and I love to continuously learn and improve my skills.
+🐱 Lar é onde meus gatos estão<br>
+☕ Nos momentos livres, exerço minha paixão pela culinária e me aventuro na cozinha como um cozinheiro autodidata<br>
+🤠 Brasileiro (Sergipe)🇧🇷<br>
+🧠 Atualmente estou estudando inglês, Next.js e Java.
 
-Hobbies 🚀<br>
-In my spare time, I have a keen interest in new technologies and their potential to change the world. I also enjoy learning about the Arduino.
-
-Contact Me 💬<br>
-Feel free to take a look at my projects on my GitHub profile and don't hesitate to reach out if you have any questions or would like to collaborate on a project. Thank you for visiting! 🤗
+Contate Me 💬<br>
+Sinta-se à vontade para dar uma olhada em meus projetos no meu perfil do GitHub e não hesite em entrar em contato se tiver alguma dúvida ou quiser colaborar em um projeto. Obrigado pela visita! 🤗
   
 :trophy:Crafting code that not only works, but tells a story
  
